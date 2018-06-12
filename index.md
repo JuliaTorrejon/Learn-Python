@@ -1,7 +1,3 @@
-theme: jekyll-theme-cayman
-title: Welcome to Julia's page!
-Description: Feel free to bookmarl this to keep an eye on my project updates
-
 
 ## Welcome to GitHub Pages
 
