@@ -8,11 +8,11 @@
 
 ### 4. Functions
 
-### 5. Lists & Dictionaries
+### 5. Lists and Dictionaries
 
 ### 6. Student Becomes a Teacher
 
-### 7. Lists & Fucntions
+### 7. Lists and Functions
 
 ### 8. Loops
 
@@ -22,4 +22,4 @@
 
 ### 11. Introduction to Classes
 
-### 12. File Input & Output
+### 12. File Input and Output
