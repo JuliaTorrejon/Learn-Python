@@ -10,8 +10,8 @@ Being able to command this communication will be one of the most valuable tools 
 
 A print statement is the easiest way to get Python programme to communicate with the user. <br/> Being able to command this communication will be one of the most valuable tools in the programming toolbox.
 
-Instructions | 
------------- | 
+Instructions  | 
+------------  | 
 Using a print statement, output a message of your choosing to the terminal.| 
 
 ```python    
