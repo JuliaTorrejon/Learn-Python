@@ -19,4 +19,6 @@ Instructions  |
 ------------  |
 Try adding your name to the print statement with the + operator so that this Python program prints "Hello [your_name]"       |
 
-
+```python 
+print "Hello " + "Julia"
+```
