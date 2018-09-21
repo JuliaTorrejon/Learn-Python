@@ -2,7 +2,7 @@
 
 ### 1. Python Syntax
 * [Hello World!](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Hello_World!.md)
-* [Print Statements]
+* [Print Statements] (https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Print_Statements.md)
 * [Strings]
 * [Handling Error]
 * [Variables] 
