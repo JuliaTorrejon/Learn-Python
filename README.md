@@ -6,7 +6,7 @@
 * [Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Strings.md)
 * [Handling Errors](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Handling_Errors.md)
 * [Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Variables.md) 
-* [Arithmetic]
+* [Arithmetic](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Arithmetics.md)
 * [Updating Variables]
 * [Comments]
 * [Numbers]
