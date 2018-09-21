@@ -5,7 +5,7 @@
 * [Print Statements](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Print_Statements.md)
 * [Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Strings.md)
 * [Handling Errors](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Handling_Errors.md)
-* [Variables] 
+* [Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Variables.md) 
 * [Arithmetic]
 * [Updating Variables]
 * [Comments]
