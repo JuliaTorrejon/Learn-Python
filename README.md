@@ -2,6 +2,19 @@
 
 ### 1. Python Syntax
 * [Hello World!](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Hello_World!.md)
+* [Print Statements]
+* [Strings]
+* [Handling Error]
+* [Variables] 
+* [Arithmetic]
+* [Updating Variables]
+* [Comments]
+* [Numbers]
+* [Two Types of Division]
+* [Multi-line Strings]
+* [Booleans]
+* [ValueError]
+* [Review]
 
 ### 2. Strings and Console Output
 
