@@ -9,7 +9,7 @@ A print statement is the easiest way to get Python programme to communicate with
 
 Instructions  | 
 ------------  | 
-Using a print statement, output a message of your choosing to the terminal.| 
+Using a `print` statement, output a message of your choosing to the terminal.| 
 
 ```python    
 Hello world! 
