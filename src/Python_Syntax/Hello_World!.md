@@ -3,9 +3,6 @@ Programming is the act of teaching a computer to have a conversation with a user
 ```python
 print "Hello, world!"
 print "Water—there is not a drop of water there!"
-
-A print statement is the easiest way to get your Python programme to communicate with you. 
-Being able to command this communication will be one of the most valuable tools in your programming toolbox.
 ```
 
 A print statement is the easiest way to get Python programme to communicate with the user. <br/> Being able to command this communication will be one of the most valuable tools in the programming toolbox.
