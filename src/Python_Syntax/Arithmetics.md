@@ -1,3 +1,5 @@
+## Arithmetic
+
 One thing computers are capable of doing exceptionally well is performing arithmetic. Addition, subtraction, multiplication, division, and other numeric calculations are easy to do in most programming languages, and Python is no exception. Some examples:
 
 ```
@@ -15,6 +17,8 @@ Python also offers a companion to division called the modulo operator. The modul
 In the above code block, we use the modulo operator to find the remainder of `15` divided by `2`. Since `15` is an odd number the remainder is `1`.
 
 We also check the remainder of `133 / 7`. Since `133` divided by `7` has no remainder, `133 % 7` evaluates to `0`.
+
+## Code Example
 
 Instructions  | 
 ------------  | 
