@@ -14,6 +14,8 @@ In the above example, we start with 50 fish in a local pond. After catching 10 f
 
 Updating a variable by adding or subtracting a number to the original contents of the variable has its own shorthand to make it faster and easier to read.
 
+## Code Example
+
 ``` python
 money_in_wallet = 40
 sandwich_price = 7.50
