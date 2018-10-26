@@ -22,8 +22,8 @@ We also check the remainder of `133 / 7`. Since `133` divided by `7` has no rema
 
 Instructions  | 
 ------------  | 
-Multiply two numbers together and assign the result to a variable called `product`. 
-What is the remainder when `1398` is divided by `11`? Save the results in a variable called `remainder`.       |
+1.Multiply two numbers together and assign the result to a variable called `product`. 
+2.What is the remainder when `1398` is divided by `11`? Save the results in a variable called `remainder`.
 
 ```python
 product = 2 * 2
