@@ -2,7 +2,7 @@
 
 In Python, and when programming in general, we need to build systems for dealing with data that changes over time. That data could be the location of a plane, or the time of day, or the television show you're currently watching. The only important thing is that it may be different at different times. Python uses variables to define things that are subject to change.
 
-```
+``` python
 greeting_message = "Welcome to Codecademy!"
 current_excercise = 5
 ```
