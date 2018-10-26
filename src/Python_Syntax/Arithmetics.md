@@ -2,7 +2,7 @@
 
 One thing computers are capable of doing exceptionally well is performing arithmetic. Addition, subtraction, multiplication, division, and other numeric calculations are easy to do in most programming languages, and Python is no exception. Some examples:
 
-```
+``` python
 mirthful_addition = 12381 + 91817
 amazing_subtraction = 981 - 312
 trippy_multiplication = 38 * 902
