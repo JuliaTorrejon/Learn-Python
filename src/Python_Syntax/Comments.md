@@ -7,6 +7,8 @@ Most of the time, code should be written in such a way that it is easy to unders
 row_count = 13
 ```
 
+## Code Example
+
 Instructions  | 
 ------------  | 
 Add a comment above the declaration of city_pop with a description of what you think the variable contains.  |
