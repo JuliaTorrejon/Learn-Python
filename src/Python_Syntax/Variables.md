@@ -13,7 +13,7 @@ In the above example, we defined a variable called `greeting_message` and set it
 
 Instructions  | 
 ------------  | 
-Create a variable called todays_date and assign a value that will represent today's date to that variable.        |
+Create a variable called `todays_date` and assign a value that will represent today's date to that variable.        |
 
 ```python
 todays_date = "September 21, 2018"
