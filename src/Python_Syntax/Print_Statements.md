@@ -2,7 +2,8 @@
 
 There are two different Python versions (Python 2 and Python 3). The most significant difference between the two is how you write a `print` statement. In Python 3, `print` has parentheses ().
 
-```print("Hello World!")
+``` python
+print ("Hello World!")
 print("Deep into distant woodlands winds a mazy way, reaching to overlapping spurs of mountains bathed in their hill-side blue.")
 ```
 
