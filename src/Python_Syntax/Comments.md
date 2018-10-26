@@ -11,7 +11,7 @@ row_count = 13
 
 Instructions  | 
 ------------  | 
-Add a comment above the declaration of city_pop with a description of what you think the variable contains.  |
+Add a comment above the declaration of `city_pop` with a description of what you think the variable contains.  |
 
 ``` python
 city_name = "St. Potatosburg"
