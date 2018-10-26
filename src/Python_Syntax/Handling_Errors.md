@@ -2,7 +2,7 @@
 
 As we get more familiar with the Python programming language, we run into errors and exceptions. These are complaints that Python makes when it doesn't understand what you want it to do. Everyone runs into these issues, so it is a good habit to read and understand them. Here are some common errors that we might run into when printing strings:
 
-```
+``` python
 print "Mismatched quotes will cause a SyntaxError'
 print Without quotes will cause a NameError
 ```
