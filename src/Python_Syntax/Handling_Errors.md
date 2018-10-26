@@ -17,7 +17,7 @@ Another issue you might run into is attempting to create a string without quotes
 
 Instructions  | 
 ------------  | 
-We've written two print statements that will raise errors. One has mismatched quotes and the other has no quotes at all. Fix the two print statements to successfully debug the program!         |
+We've written two `print` statements that will raise errors. One has mismatched quotes and the other has no quotes at all. Fix the two print statements to successfully debug the program!         |
 
 ```python
 print("How do you make a hot dog stand?')
