@@ -11,5 +11,5 @@ Instructions  |
 Print something using Python 3's syntax.       |
 
 ```python    
-("Hello world!") 
+print ("Hello world!") 
 ```
