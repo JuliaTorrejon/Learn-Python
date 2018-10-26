@@ -5,7 +5,7 @@ Most of the time, code should be written in such a way that it is easy to unders
 ```python
 # this variable counts how many rows of the spreadsheet we have:
 row_count = 13
-``
+```
 
 Instructions  | 
 ------------  | 
