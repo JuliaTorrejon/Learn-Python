@@ -12,5 +12,5 @@ Instructions  |
 Using a `print` statement, output a message of your choosing to the terminal.| 
 
 ```python    
-Hello world! 
+print Hello world! 
 ```
