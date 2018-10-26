@@ -7,7 +7,7 @@
 * [Handling Errors](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Handling_Errors.md)
 * [Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Variables.md) 
 * [Arithmetic](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Arithmetics.md)
-* [Updating Variables]
+* [Updating Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Updating_Variables.md)
 * [Comments]
 * [Numbers]
 * [Two Types of Division]
