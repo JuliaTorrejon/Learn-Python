@@ -9,7 +9,7 @@
 * [Arithmetic](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Arithmetics.md)
 * [Updating Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Updating_Variables.md)
 * [Comments](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Comments.md)
-* [Numbers]
+* [Numbers](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Numbers.md)
 * [Two Types of Division]
 * [Multi-line Strings]
 * [Booleans]
