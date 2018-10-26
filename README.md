@@ -8,7 +8,7 @@
 * [Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Variables.md) 
 * [Arithmetic](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Arithmetics.md)
 * [Updating Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Updating_Variables.md)
-* [Comments]
+* [Comments](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Comments.md)
 * [Numbers]
 * [Two Types of Division]
 * [Multi-line Strings]
