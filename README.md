@@ -11,10 +11,10 @@
 * [Comments](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Comments.md)
 * [Numbers](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Numbers.md)
 * [Two Types of Division](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Two_Types_of_Division.md)
-* [Multi-line Strings]
-* [Booleans]
-* [ValueError]
-* [Review]
+* [Multi-line Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Multi-line_Strings.md)
+* [Booleans](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Booleans.md)
+* [ValueError](
+* [Review](
 
 ### 2. Strings and Console Output
 
