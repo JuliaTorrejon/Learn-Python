@@ -13,7 +13,7 @@
 * [Two Types of Division](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Two_Types_of_Division.md)
 * [Multi-line Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Multi-line_Strings.md)
 * [Booleans](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Booleans.md)
-* [ValueError](
+* [ValueError](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/ValueError.md)
 * [Review](
 
 ### 2. Strings and Console Output
