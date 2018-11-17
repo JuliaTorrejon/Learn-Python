@@ -35,7 +35,9 @@ quotient1 = float(7)/2
 
 Instructions  | 
 ------------  |
-1.You have come home from the grocery store with 100 cucumbers to split amongst yourself and your 5 roommates (6 people total). Create a variable cucumbers that holds 100 and num_people that holds 6. |
+1.You have come home from the grocery store with 100 cucumbers to split amongst yourself and your 5 roommates (6 people total). Create a variable `cucumbers` that holds `100` and `num_people` that holds `6`.
+2.Create a variable called `whole_cucumbers_per_person` that is the integer result of dividing `cucumbers` by `num_people`.Print `whole_cucumbers_per_person` to the console.
+3.You realize that the numbers don't divide evenly and you don't want to throw out the remaining cucumbers. Create a variable called `float_cucumbers_per_person` that holds the float result of dividing `cucumbers` by `num_people`. Print float_cucumbers_per_person to the console.
 
 ```python 
 print "Hello " + "Julia"
