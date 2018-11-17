@@ -14,7 +14,7 @@
 * [Multi-line Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Multi-line_Strings.md)
 * [Booleans](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Booleans.md)
 * [ValueError](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/ValueError.md)
-* [Review](
+* [Review](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Review.md)
 
 ### 2. Strings and Console Output
 
