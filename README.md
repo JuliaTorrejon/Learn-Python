@@ -10,7 +10,7 @@
 * [Updating Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Updating_Variables.md)
 * [Comments](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Comments.md)
 * [Numbers](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Numbers.md)
-* [Two Types of Division]
+* [Two Types of Division](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Two_Types_of_Division.md)
 * [Multi-line Strings]
 * [Booleans]
 * [ValueError]
