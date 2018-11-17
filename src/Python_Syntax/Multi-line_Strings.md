@@ -19,4 +19,13 @@ returns the modified input and a string that says "Success!" or "Failure..."
 """
 ... a complicated piece of code here...
 ```
+## Code Example
 
+Instructions  | 
+------------  |
+Create a variable called haiku and store this haiku as a multi-line string: The old pond, A frog jumps in: Plop!
+
+```python
+haiku = """The old pond, A frog jumps in: 
+Plop!"""
+```
