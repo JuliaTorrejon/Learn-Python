@@ -40,5 +40,14 @@ Instructions  |
 3.You realize that the numbers don't divide evenly and you don't want to throw out the remaining cucumbers. Create a variable called `float_cucumbers_per_person` that holds the float result of dividing `cucumbers` by `num_people`. Print float_cucumbers_per_person to the console.
 
 ```python 
-print "Hello " + "Julia"
+cucumbers = 100
+num_people = 6
+
+whole_cucumbers_per_person = cucumbers/num_people
+
+print whole_cucumbers_per_person
+
+float_cucumbers_per_person = float(cucumbers/num_people)
+
+print float_cucumbers_per_person
 ```
