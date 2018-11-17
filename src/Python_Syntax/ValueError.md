@@ -39,3 +39,19 @@ print float(string_num)
 >>> 7.5
 ```
 
+Instructions  | 
+------------  |
+1.Create a variable called `product` that contains the result of multiplying the float value of `float_1` and `float_2`.
+2.Create a string called big_string that says:
+The product was X
+with the value of product where the X is.
+
+```python
+float_1 = 0.25
+float_2 = 40.0
+
+product = float(float_1 * float_2)
+
+big_string = 2
+"The product was " + str(big_string)
+```
