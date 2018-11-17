@@ -7,7 +7,7 @@ address_string = """136 Whowho Rd
 Apt 7
 Whosville, WZ 44494"""
 ````
-This address spans multiple lines, and is still contained in one variable, address_string.
+This address spans multiple lines, and is still contained in one variable, `address_string`.
 
 When a string like this is not assigned to a variable, it works as a multi-line comment. This can be helpful as your code gets more complex:
 
@@ -23,7 +23,7 @@ returns the modified input and a string that says "Success!" or "Failure..."
 
 Instructions  | 
 ------------  |
-Create a variable called haiku and store this haiku as a multi-line string: The old pond, A frog jumps in: Plop!
+Create a variable called `haiku and store this haiku as a multi-line string: The old pond, A frog jumps in: Plop!
 
 ```python
 haiku = """The old pond, A frog jumps in: 
