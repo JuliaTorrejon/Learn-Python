@@ -23,7 +23,7 @@ returns the modified input and a string that says "Success!" or "Failure..."
 
 Instructions  | 
 ------------  |
-Create a variable called `haiku and store this haiku as a multi-line string: The old pond, A frog jumps in: Plop!
+Create a variable called `haiku` and store this haiku as a multi-line string: The old pond, A frog jumps in: Plop!
 
 ```python
 haiku = """The old pond, A frog jumps in: 
