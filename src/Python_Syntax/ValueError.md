@@ -42,11 +42,7 @@ print float(string_num)
 Instructions  | 
 ------------  |
 1.Create a variable called `product` that contains the result of multiplying the float value of `float_1` and `float_2`.
-2.Create a string called `big_string` that says:
-``` python
-The product was X
-```
-with the value of `product` where the `X` is.
+2.Create a string called `big_string` that says: ``` python The product was X ``` with the value of `product` where the `X` is.
 
 ```python
 float_1 = 0.25
