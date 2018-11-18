@@ -14,6 +14,7 @@ Instructions  |
 Add a comment above the declaration of `city_pop` with a description of what you think the variable contains.  |
 
 ``` python
+# This is a description of what the variable contains
 city_name = "St. Potatosburg"
 city_pop = 340000
 ```
