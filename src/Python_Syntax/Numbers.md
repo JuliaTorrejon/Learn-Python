@@ -31,3 +31,12 @@ Instructions  |
 3.Create a new variable called total_cost which is the product of how many cucumbers you are going to buy and the cost per cucumber.
 4.Print out total_cost. What datatype is it? 
 
+``` python
+cucumbers = 1 
+
+price_per_cucumber = float(3.25)
+
+total_cost = cucumbers * price_per_cucumber
+
+print total_cost
+```
