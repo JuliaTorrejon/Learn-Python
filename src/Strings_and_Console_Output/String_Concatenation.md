@@ -20,6 +20,5 @@ Make sure you include the spaces at the end of "Spam " and "and ".
 
 ``` pyhton
 # Print the concatenation of "Spam and eggs"!
-
 print "Spam " + "and " + "eggs"
 ```
