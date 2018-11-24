@@ -20,7 +20,7 @@
 * [Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Strings.md)
 * [Escaping Characters](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Escaping_Characters.md)
 * [Access by Index](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Access_by_Index.md)
-* [String Methods(Low, Upper, Str)](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Methods.md)
+* [String Methods (Low, Upper, Str)](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Methods.md)
 * [Dot Notation](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Dot_Notation.md)
 * [Printing Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Printing_Strings.md)
 * [Printing Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Printing_Variables.md)
