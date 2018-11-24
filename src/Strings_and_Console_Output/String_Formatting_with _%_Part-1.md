@@ -28,10 +28,8 @@ Instructions  |
 1.Take a look at the code in the editor. What do you think it'll do? Click Run when you think you know.
 
 ``` python
-name = raw_input("What is your name?")
-quest = raw_input("What is your quest?")
-color = raw_input("What is your favorite color?")
+string_1 = "Camelot"
+string_2 = "place"
 
-print "Ah, so your name is %s, your quest is %s, and your favorite color is %s." % (name, quest,
-color)
+print "Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)
 ```
