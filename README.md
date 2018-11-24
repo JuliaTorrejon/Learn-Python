@@ -17,6 +17,17 @@
 * [Review](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Python_Syntax/Review.md)
 
 ### 2. Strings and Console Output
+* [Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Strings.md)
+* [Escaping Characters](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Escaping_Characters.md)
+* [Access by Index](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Access_by_Index.md)
+* [String Methods(Low, Upper, Str)](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Methods.md)
+* [Dot Notation](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Dot_Notation.md)
+* [Printing Strings](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Printing_Strings.md)
+* [Printing Variables](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Printing_Variables.md)
+* [String Concatenation](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Concatenation.md)
+* [Explicit String Conversion](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/Explicit_String_Conversion.md)
+* [String Formatting with % - Part 1](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Formatting_with%20_%25_Part-1.md)
+* [String Formatting with % - Part 2](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Formatting_with_%25_Part-2.md)
 
 ### 3. Conditionals and Control Flow
 
