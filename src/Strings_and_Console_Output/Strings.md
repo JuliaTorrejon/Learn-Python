@@ -13,6 +13,8 @@ food = "cheese"
 
 _Note_: Strings need to be within quotes.
 
+## Code Example
+
 Instructions  | 
 ------------  | 
 1.Create a new variable `brian` and assign it the string `"Hello life!"`.
