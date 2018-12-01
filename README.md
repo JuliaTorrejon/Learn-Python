@@ -30,7 +30,7 @@
 * [String Formatting with % - Part 2](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Strings_and_Console_Output/String_Formatting_with_%25_Part-2.md)
 
 ### 3. Conditionals and Control Flow
-* [Go with the Flow]
+* [Go With the Flow]
 * [Compare Closely!]
 * [Compare... Closelier!] 
 * [How the Tables have Turned] 
