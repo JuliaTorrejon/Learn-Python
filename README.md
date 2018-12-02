@@ -31,11 +31,11 @@
 
 ### 3. Conditionals and Control Flow
 * [Go With the Flow](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Go_With_the_Flow.md)
-* [Compare Closely!]
-* [Compare... Closelier!] 
-* [How the Tables have Turned] 
-* [To Be and/or not ot Be]
-* [And]
+* [Compare Closely!](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Compare_Closely.md)
+* [Compare... Closelier!](https://github.com/JuliaTorrejon/Learn-Python/tree/master/src/Conditionals_and_Control_Flow)
+* [How the Tables have Turned](
+* [To Be and/or not ot Be](
+* [And](
 * [Or]
 * [Not]
 * [This and That (or This, But Not That!)]
