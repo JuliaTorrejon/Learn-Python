@@ -38,13 +38,13 @@
 * [And](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/And.md)
 * [Or](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Or.md)
 * [Not](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Not.md)
-* [This and That (or This, But Not That!)]
-* [Mix 'n' Match]
-* [Conditional Statement Syntax]
-* [If You're having...]
-* [Else Problems, I Feel Bad for You, Son...]
-* [I Got 99 Problems, but a Switch Ain't...]
-* [The Big If]
+* [This and That (or This, But Not That!)](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/This_and%20_That_or%20_This_But%20_Not%20_That.md)
+* [Mix 'n' Match](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Mix_and_Match.md)
+* [Conditional Statement Syntax](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Conditional_Statement_Syntax.md)
+* [If You're having...](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/If_You_Are_Having.md)
+* [Else Problems, I Feel Bad for You, Son...](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Else_Problems_I_Feel_Bad_for_You.md)
+* [I Got 99 Problems, but a Switch Ain't...](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/I_Got_99_Problems_But_a_Switch_Aint_One.md)
+* [The Big If](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/The_Big_If.md)
 
 ### 4. Functions
 
