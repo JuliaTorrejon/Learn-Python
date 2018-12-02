@@ -33,11 +33,11 @@
 * [Go With the Flow](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Go_With_the_Flow.md)
 * [Compare Closely!](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Compare_Closely.md)
 * [Compare... Closelier!](https://github.com/JuliaTorrejon/Learn-Python/tree/master/src/Conditionals_and_Control_Flow)
-* [How the Tables have Turned](
-* [To Be and/or not ot Be](
-* [And](
-* [Or]
-* [Not]
+* [How the Tables have Turned](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/How_the_Tables_Have_Turned.md)
+* [To Be and/or not ot Be](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/To_Be_and_or_Not_to_Be.md)
+* [And](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/And.md)
+* [Or](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/And.md)
+* [Not](https://github.com/JuliaTorrejon/Learn-Python/blob/master/src/Conditionals_and_Control_Flow/Not.md)
 * [This and That (or This, But Not That!)]
 * [Mix 'n' Match]
 * [Conditional Statement Syntax]
